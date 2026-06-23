@@ -1,6 +1,6 @@
 # Olá, eu sou o Rafael Santos 👋
 
-Apassionado por tecnologia, arquitetura de sistemas e soluções back-end robustas. Atualmente focado no desenvolvimento de APIs de alta performance, integração de dados e microsserviços containerizados.
+Apaixonado por tecnologia, arquitetura de sistemas e soluções back-end robustas. Atualmente focado no desenvolvimento de APIs de alta performance, integração de dados e microsserviços containerizados.
 
 ---
 
